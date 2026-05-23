@@ -1,5 +1,3 @@
--- DevPulse database schema
--- Run this file in NeonDB, Supabase SQL Editor, Railway PostgreSQL, or local psql.
 
 CREATE TABLE IF NOT EXISTS users (
   id SERIAL PRIMARY KEY,
